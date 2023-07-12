@@ -1,3 +1,5 @@
+## Ce fork est utilisé pour sol solution DCP et met a jour des dépendances
+
 # react-native-svg-charts
 
 [![version](https://img.shields.io/npm/v/react-native-svg-charts.svg)](https://www.npmjs.com/package/react-native-svg-charts)
