@@ -1,4 +1,4 @@
-## Ce fork est utilisé pour sol solution DCP et met a jour des dépendances
+# Ce fork met a jour des dépendances (utilisé dans sol-solution DCP mobile)
 
 # react-native-svg-charts
 
